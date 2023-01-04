@@ -1,0 +1,15 @@
+C:\Users\phamp\OneDrive\Documents\Coffee order\bin\Debug\net6.0\Coffee order.exe
+C:\Users\phamp\OneDrive\Documents\Coffee order\bin\Debug\net6.0\Coffee order.deps.json
+C:\Users\phamp\OneDrive\Documents\Coffee order\bin\Debug\net6.0\Coffee order.runtimeconfig.json
+C:\Users\phamp\OneDrive\Documents\Coffee order\bin\Debug\net6.0\Coffee order.dll
+C:\Users\phamp\OneDrive\Documents\Coffee order\bin\Debug\net6.0\Coffee order.pdb
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.csproj.AssemblyReference.cache
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.AssemblyInfoInputs.cache
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.AssemblyInfo.cs
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.csproj.CoreCompileInputs.cache
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.dll
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\refint\Coffee order.dll
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.pdb
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\Coffee order.genruntimeconfig.cache
+C:\Users\phamp\OneDrive\Documents\Coffee order\obj\Debug\net6.0\ref\Coffee order.dll
